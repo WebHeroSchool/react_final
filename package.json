@@ -1,0 +1,25 @@
+{
+  "name": "reactfinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "say": "echo hello",
+    "build": "mkdir build",
+    "delete": "rm -rf build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzezAeksandrChernilevskiy/reactFinal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzezAeksandrChernilevskiy/reactFinal/issues"
+  },
+  "homepage": "https://github.com/AzezAeksandrChernilevskiy/reactFinal#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
